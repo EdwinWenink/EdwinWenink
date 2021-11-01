@@ -6,6 +6,8 @@
 - ⌛ [Now page](https://www.edwinwenink.xyz/now/)
 - 📫 How to reach me: edwinwenink AT hotmail DOT com
   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwinWenink&show_icons=true&theme=radical&count_private=true)
+
 <!--
 **EdwinWenink/EdwinWenink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
