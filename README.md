@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 I'm Edwin Wenink
-- 📖 I graduated in philosophy (research master) and artificial intelligence (master).
+- 📖 I graduated in artificial intelligence (master) and philosophy (research master).
 - 🏠 Check out my personal website called [Archive Fever](https://www.edwinwenink.xyz)
 - ⚡ [Curriculum Vitae](https://raw.githubusercontent.com/EdwinWenink/cv/main/cv.pdf)
 - ⌛ [Now page](https://www.edwinwenink.xyz/now/)
